@@ -7,7 +7,7 @@
   "theme_color": "#007bff",
   "icons": [
     {
-      "src": "https://github.com/Locator-ai/crispy-octo-giggle/blob/07c025379f163e150cbb942e9ef87737d5d23ec1/instagrid_4x4_32x32.png",
+      "src": "https://raw.githubusercontent.com/Locator-ai/crispy-octo-giggle/main/instagrid_4x4_32x32.png",
       "sizes": "32x32",
       "type": "image/png"
     },
